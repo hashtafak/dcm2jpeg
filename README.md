@@ -15,4 +15,6 @@ Linux/MacOS version not available.
 
 Working on Linux/MacOS with Pydicom: https://github.com/pydicom/pydicom
 
-Other solutions: GDCM, DCMTK
+Note that edge have edge-py, run python in NodeJS https://github.com/tjanczuk/edge#how-to-script-python-in-a-nodejs-application
+
+Other solutions C/C++: GDCM, DCMTK
