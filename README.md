@@ -2,7 +2,8 @@
 Javascript DICOM to JPEG base64 image, use fo-dicom c# dll with Edge-js 
 
 Using edge-js to call c# DLL to convert DICOM file to JPEG image.
-Tested on Windows 10
+
+Tested on Windows 10 (64bit) https://github.com/hashtafak/dcm2jpeg/blob/master/dcm2jpeg-x64.js
 
 # Require for DLL (same as edge-js)
 + Latest vcredit
